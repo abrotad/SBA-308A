@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+input {
+  width: 70%;
+  padding: 8px;
+  margin: 10px 0;
+}
+
+button {
+  padding: 8px 15px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#bookResults {
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
